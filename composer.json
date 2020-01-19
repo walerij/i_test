@@ -9,5 +9,12 @@
             "email": "git.valera@bk.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload":
+    {
+        "psr-4":
+        {
+            "walerij\\":"src"
+        }
+    }
 }
