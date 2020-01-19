@@ -1,0 +1,13 @@
+{
+    "name": "walerij/ipoteka",
+    "description": "Test of project Ipoteka",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "git-valeriy",
+            "email": "git.valera@bk.ru"
+        }
+    ],
+    "require": {}
+}
